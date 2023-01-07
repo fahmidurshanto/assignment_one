@@ -97,3 +97,28 @@
     height: 300px;
 }
 /* main third part styles */
+.bg-img{
+    background-image:linear-gradient(to left, rgba(182, 115, 15, 0), #c0530b),
+    url('../images/watch.png');
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 125px;
+    margin-bottom: 130px;
+    height: 300px;
+    width: 1140px;
+    border-radius: 7px;
+}
+.bg-img .main-title{
+    color: white;
+    margin-left: 65px;
+    padding-top: 59px;
+}
+.btn-2{
+    padding: 18px;
+    width: 160px;
+    height: 65px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 65px;
+}
